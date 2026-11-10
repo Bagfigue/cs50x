@@ -5,14 +5,14 @@
 Repository created to document my progress through CS50x.
 
 Progress
-#	Week 0 - Scratch
+#	Week 0 - Scratch ✅
 #	Week 1 - C
 #	Week 2 - Arrays
 #	Week 3 - Algorithms
 
 
 Goals
-#	Strengthen computer science fundamentals
-#	Build a learning portfolio
-#	Improve programming skills
->>>>>>> 199c169cc77b1b8f55104f910c35d9c5a8597f66
+###	Strengthen computer science fundamentals
+###	Build a learning portfolio
+###	Improve programming skills
+
