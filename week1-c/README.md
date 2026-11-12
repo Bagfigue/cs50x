@@ -32,8 +32,12 @@ Used loops to generate pyramid patterns, reinforcing repetition structures and l
 ### Cash (or Credit)
 
 Applied conditionals, arithmetic operations, and algorithmic reasoning to solve real-world style problems.
-They have also introduced the idea of integer overflow and how to treat it. - **Integer Overflow:** Happens when a number exceeds the maximum value that a data type can store. When this occurs, the value wraps around and produces an incorrect result.
-Besides that, they have also mentioned about 'truncation'; - It occurs when a decimal value is converted to an integer. The fractional part is discarded rather than rounded.
+They have also introduced the idea of integer overflow and how to treat it. 
+
+  - **Integer Overflow:** Happens when a number exceeds the maximum value that a data type can store. When this occurs, the value wraps around and produces an incorrect result.
+
+Besides that, they have also mentioned about 'truncation';
+  - It occurs when a decimal value is converted to an integer. The fractional part is discarded rather than rounded.
 
 ## Key Learnings
 
